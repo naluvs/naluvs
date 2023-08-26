@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align="center">
 <h2>Oi, eu sou a Nalu!</h2>
 <img src="https://i.imgur.com/EjefdP9.png" align="right" width="34%"> 
