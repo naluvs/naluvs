@@ -1,31 +1,51 @@
-<div align="center">
-<h2>Oi, eu sou a Nalu!</h2>
-<img src="https://i.imgur.com/EjefdP9.png" align="right" width="34%"> 
-</div>
+<h1 align="center">Hi 👋, I'm Ana Soares</h1>
+<h3 align="center">Computer Science Undergraduate | Frontend Developer</h3>
 
-<div align="center">
-  <a href="https://github.com/naluvs">
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=naluvs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naluvs&layout=compact&langs_count=7&theme=dracula"/>
-    
-</div>
-  
-<div align="center"> 
-  <p>Estou estudando as seguintes tecnologias:</p>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" alt="Logo Javascript"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="40" alt="Logo React"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" width="40" alt="Logo R"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" width="40" alt="Logo Java"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="40" alt="Logo C++"/>
+---
 
+## 🌎 About Me
 
+- 🎓 Computer Science Undergraduate  
+- 💻 Frontend Developer working with React and TypeScript  
+- 🚀 Currently studying Next.js 
+- 📚 Committed to continuous improvement and skill development   
 
-  
-</div>
-  
-  ##
+---
 
+## 🚀 Tech Stack
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ana-luiza-ventapane/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+### 💻 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🧩 Backend & Others
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naluvs&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naluvs&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=naluvs&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact
+
+- 💼 LinkedIn: [linkedin.com/in/ana-luiza-ventapane](https://www.linkedin.com/in/ana-luiza-ventapane/)
+
+---
+
+⭐ Focused on delivering high-quality solutions and continuously improving as a developer.
