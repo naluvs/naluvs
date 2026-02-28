@@ -20,25 +20,10 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🧩 Backend & Others
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naluvs&show_icons=true&theme=tokyonight&cache_seconds=86400" /></p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naluvs&layout=compact&theme=tokyonight&cache_seconds=86400"" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=naluvs&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Contact
 
